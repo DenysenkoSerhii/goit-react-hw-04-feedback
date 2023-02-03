@@ -54,8 +54,7 @@ const Vote = () => {
                     <Notification message="There is no feedback" />
                     </Section>)}
     
-                
-            </div>
+                </div>
         )
 
 }
